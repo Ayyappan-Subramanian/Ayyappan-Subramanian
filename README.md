@@ -22,27 +22,27 @@ Software Developer with nearly 3 years of experience in building and scaling bac
 
 ### Languages & Frameworks
 <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-<a href="https://www.java.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+<a href="https://www.java.com" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <strong style="line-height: 40px; display: flex; align-items: center;">Java</strong>
 </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-    <strong>Spring Boot</strong>
+    <strong style="vertical-align: middle;">Spring Boot</strong>
   </a>
-  <a href="https://www.python.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <a href="https://www.python.org" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <strong>Python</strong>
   </a>
-  <a href="https://www.javascript.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <a href="https://www.javascript.com" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <strong>JavaScript</strong>
   </a>
-  <a href="https://nodejs.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <a href="https://nodejs.org" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     <strong>Node.js</strong>
   </a>
-  <a href="https://react.dev" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <a href="https://react.dev" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
     <strong>ReactJS</strong>
   </a>
