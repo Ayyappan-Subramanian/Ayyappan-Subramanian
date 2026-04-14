@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a5be,50:8a012f,100:008080&height=280&section=header&text=Ayyappan%20Subramanian&fontSize=75&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring Boot%20%E2%80%A2%20Microservices&descAlignY=52&descSize=18&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a5be,50:8a012f,100:008080&height=280&section=header&text=Ayyappan%20Subramanian&fontSize=75&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descAlignY=52&descSize=18&fontColor=ffffff" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <br/>
