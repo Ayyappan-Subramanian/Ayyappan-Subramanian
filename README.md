@@ -21,11 +21,11 @@ Software Developer with nearly 3 years of experience in building and scaling bac
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-<a href="https://www.java.com" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
+  <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 30px;">
+  <a href="https://www.java.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <strong style="line-height: 40px; display: flex; align-items: center;">Java</strong>
-</a>
+    <strong>Java</strong>
+  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
     <strong style="vertical-align: middle;">Spring Boot</strong>
