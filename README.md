@@ -186,7 +186,7 @@ Software Developer with nearly 3 years of experience in building and scaling bac
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center"><a href="PROJECT_LINK_1">Automated Database Archival System</a></h3>
+<h3 align="center"><a href="https://github.com/Ayyappan-Subramanian/case-archival">Automated Database Archival System</a></h3>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -205,7 +205,7 @@ Software Developer with nearly 3 years of experience in building and scaling bac
 </td>
 
 <td width="50%" valign="top">
-<h3 align="center"><a href="PROJECT_LINK_2">Full-Stack Forum Application</a></h3>
+<h3 align="center"><a href="https://github.com/Ayyappan-Subramanian/Forum-Project-DevSecOps">Full-Stack Forum Application</a></h3>
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
