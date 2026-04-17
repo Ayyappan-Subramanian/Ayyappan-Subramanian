@@ -24,158 +24,61 @@ Software Developer with nearly 3 years of experience in building and scaling bac
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-  <p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 30px;">
-  <a href="https://www.java.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;<strong>Java</strong></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>&nbsp;
-    <strong style="vertical-align: middle;">Spring Boot</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-    <strong>Python</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.javascript.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <strong>JavaScript</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
-    <strong>Node.js</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev" target="_blank" style="display: flex; align-items: center; gap: 18px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>&nbsp;
-    <strong>ReactJS</strong>
-  </a>&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br><strong>Java</strong></a></td>
+<td align="center"><a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/><br><strong>Spring Boot</strong></a></td>
+<td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br><strong>Python</strong></a></td>
+<td align="center"><a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><strong>JavaScript</strong></a></td>
+<td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br><strong>Node.js</strong></a></td>
+<td align="center"><a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br><strong>ReactJS</strong></a></td>
+</tr></table>
 
 ### Database & ORM
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://www.postgresql.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <strong>PostgreSQL</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>&nbsp;
-    <strong>Oracle</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <strong>MongoDB</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>&nbsp;
-    <strong>Redis</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://hibernate.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>&nbsp;
-    <strong>Hibernate</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br><strong>PostgreSQL</strong></a></td>
+<td align="center"><a href="https://www.oracle.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/><br><strong>Oracle</strong></a></td>
+<td align="center"><a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br><strong>MongoDB</strong></a></td>
+<td align="center"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/><br><strong>Redis</strong></a></td>
+<td align="center"><a href="https://hibernate.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40"/><br><strong>Hibernate</strong></a></td>
+</tr></table>
 
 ### API & Integration
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://swagger.io" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>&nbsp;
-    <strong>Swagger</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postman.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>&nbsp;
-    <strong>Postman</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://kafka.apache.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="40" height="40"/>&nbsp;
-    <strong>Kafka</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>&nbsp;
-    <strong>RabbitMQ</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://swagger.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40"/><br><strong>Swagger</strong></a></td>
+<td align="center"><a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/><br><strong>Postman</strong></a></td>
+<td align="center"><a href="https://kafka.apache.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"/><br><strong>Kafka</strong></a></td>
+<td align="center"><a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/><br><strong>RabbitMQ</strong></a></td>
+</tr></table>
 
 ### Cloud & DevOps
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://aws.amazon.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>&nbsp;
-    <strong>AWS</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>&nbsp;
-    <strong>Azure</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-    <strong>Git</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
-    <strong>GitHub</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.jenkins.io" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>&nbsp;
-    <strong>Jenkins</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://maven.apache.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" width="40" height="40"/>&nbsp;
-    <strong>Maven</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>&nbsp;
-    <strong>Docker</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;
-    <strong>Kubernetes</strong>
-  </a>&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br><strong>AWS</strong></a></td>
+<td align="center"><a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/><br><strong>Azure</strong></a></td>
+<td align="center"><a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br><strong>Git</strong></a></td>
+<td align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/><br><strong>GitHub</strong></a></td>
+<td align="center"><a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/><br><strong>Jenkins</strong></a></td>
+<td align="center"><a href="https://maven.apache.org"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" height="40"/><br><strong>Maven</strong></a></td>
+<td align="center"><a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br><strong>Docker</strong></a></td>
+<td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/><br><strong>Kubernetes</strong></a></td>
+</tr></table>
 
 ### Testing & Monitoring
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://junit.org/junit5" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>&nbsp;
-    <strong>JUnit</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://site.mockito.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/Mockito-8A2BE2?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" width="40" height="40"/>&nbsp;
-    <strong>Mockito</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.splunk.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/>&nbsp;
-    <strong>Splunk</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.elastic.co" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="40" height="40"/>&nbsp;
-    <strong>ELK Stack</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.dynatrace.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="Dynatrace" width="40" height="40"/>&nbsp;
-    <strong>Dynatrace</strong>
-  </a>&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://junit.org/junit5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40"/><br><strong>JUnit</strong></a></td>
+<td align="center"><a href="https://site.mockito.org"><img src="https://img.shields.io/badge/Mockito-8A2BE2?style=for-the-badge&logo=java&logoColor=white" width="80" height="40"/><br><strong>Mockito</strong></a></td>
+<td align="center"><a href="https://www.splunk.com"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/><br><strong>Splunk</strong></a></td>
+<td align="center"><a href="https://www.elastic.co"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/><br><strong>ELK Stack</strong></a></td>
+<td align="center"><a href="https://www.dynatrace.com"><img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" width="40" height="40"/><br><strong>Dynatrace</strong></a></td>
+</tr></table>
 
 ### IDE & Other Tools
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://www.jetbrains.com/idea" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>&nbsp;
-    <strong>IntelliJ</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-    <strong>VS Code</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.eclipse.org" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>&nbsp;
-    <strong>Eclipse</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cursor.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" width="40" height="40"/>&nbsp;
-    <strong>Cursor</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>&nbsp;
-    <strong>JIRA</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center"><a href="https://www.jetbrains.com/idea"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/><br><strong>IntelliJ</strong></a></td>
+<td align="center"><a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/><br><strong>VS Code</strong></a></td>
+<td align="center"><a href="https://www.eclipse.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/><br><strong>Eclipse</strong></a></td>
+<td align="center"><a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="80" height="40"/><br><strong>Cursor</strong></a></td>
+<td align="center"><a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/><br><strong>JIRA</strong></a></td>
+</tr></table>
 
 <div align="center">
 
