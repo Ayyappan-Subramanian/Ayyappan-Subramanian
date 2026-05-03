@@ -9,7 +9,7 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/aysubofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ayyappan.careers@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@ayyappansubramanian77"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
 ## About Me
